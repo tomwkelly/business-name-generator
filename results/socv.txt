@@ -1,0 +1,14 @@
+Sock complete, checking: ['sobi.io', 'sobu.io', 'soci.com', 'sofa.io', 'sofu.io', 'sofu.com', 'soge.io', 'sohe.io', 'sohi.io', 'sohi.com', 'soho.io', 'soje.io', 'soji.com', 'soju.io', 'solo.com', 'solu.com', 'sone.io', 'sono.io', 'sopo.io', 'sopu.io', 'sopu.com', 'soqa.io', 'soqe.io', 'soqi.io', 'soqu.io', 'sori.io', 'sose.io', 'sose.com', 'sosu.io', 'soti.io', 'sotu.io', 'sovo.com', 'sowa.io', 'sowo.io', 'sowu.io', 'soxa.io', 'soxe.io', 'soxi.com', 'soxu.io', 'soye.io', 'soyi.io', 'soyu.io', 'soze.com', 'sozi.io', 'sozi.com', 'sozo.io']
+sofu.io, https://domains.google.com/registrar/search?searchTerm=sofu.io
+soge.io, https://domains.google.com/registrar/search?searchTerm=soge.io
+sohe.io, https://domains.google.com/registrar/search?searchTerm=sohe.io
+soje.io, https://domains.google.com/registrar/search?searchTerm=soje.io
+sopu.io, https://domains.google.com/registrar/search?searchTerm=sopu.io
+soqa.io, https://domains.google.com/registrar/search?searchTerm=soqa.io
+soqe.io, https://domains.google.com/registrar/search?searchTerm=soqe.io
+soqi.io, https://domains.google.com/registrar/search?searchTerm=soqi.io
+sowu.io, https://domains.google.com/registrar/search?searchTerm=sowu.io
+soxa.io, https://domains.google.com/registrar/search?searchTerm=soxa.io
+soxe.io, https://domains.google.com/registrar/search?searchTerm=soxe.io
+soxu.io, https://domains.google.com/registrar/search?searchTerm=soxu.io
+soyi.io, https://domains.google.com/registrar/search?searchTerm=soyi.io

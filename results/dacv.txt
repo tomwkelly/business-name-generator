@@ -1,0 +1,11 @@
+Sock complete, checking: ['dabu.com', 'dacu.io', 'dada.com', 'dafa.com', 'dafu.io', 'dafu.com', 'dagu.io', 'daha.com', 'dahi.io', 'dahu.io', 'daji.io', 'daju.io', 'daka.com', 'daku.com', 'dame.com', 'dane.io', 'dano.io', 'dape.io', 'dapu.io', 'daqa.io', 'daqa.com', 'daqe.io', 'daqe.com', 'daqi.com', 'daqo.com', 'daqu.io', 'dara.io', 'dara.com', 'dasa.io', 'dasu.io', 'datu.com', 'davu.io', 'davu.com', 'dawe.io', 'dawi.io', 'dawu.io', 'daxa.io', 'daxu.io', 'daye.io']
+dacu.io, https://domains.google.com/registrar/search?searchTerm=dacu.io
+dafu.io, https://domains.google.com/registrar/search?searchTerm=dafu.io
+dagu.io, https://domains.google.com/registrar/search?searchTerm=dagu.io
+dapu.io, https://domains.google.com/registrar/search?searchTerm=dapu.io
+daqa.io, https://domains.google.com/registrar/search?searchTerm=daqa.io
+daqe.io, https://domains.google.com/registrar/search?searchTerm=daqe.io
+daqu.io, https://domains.google.com/registrar/search?searchTerm=daqu.io
+dawi.io, https://domains.google.com/registrar/search?searchTerm=dawi.io
+daxu.io, https://domains.google.com/registrar/search?searchTerm=daxu.io
+daye.io, https://domains.google.com/registrar/search?searchTerm=daye.io

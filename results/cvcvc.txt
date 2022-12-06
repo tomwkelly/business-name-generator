@@ -1,0 +1,9 @@
+Error trying to connect to socket: closing socket - [Errno 54] Connection reset by peer
+Error trying to connect to socket: closing socket - [Errno 54] Connection reset by peer
+Error trying to connect to socket: closing socket - [Errno 54] Connection reset by peer
+Error trying to connect to socket: closing socket - [Errno 54] Connection reset by peer
+Error trying to connect to socket: closing socket - [Errno 54] Connection reset by peer
+Error trying to connect to socket: closing socket - [Errno 54] Connection reset by peer
+Error trying to connect to socket: closing socket - [Errno 54] Connection reset by peer
+Error trying to connect to socket: closing socket - [Errno 54] Connection reset by peer
+Error trying to connect to socket: closing socket - [Errno 54] Connection reset by peer
